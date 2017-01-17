@@ -7,7 +7,4 @@ for y in range(User + 1):
         elif x >= User - y and x <= User + y:
             output += "*"
         else:
-            output += " "
-    output += "\n"
-
-print(output)
+            output +=
