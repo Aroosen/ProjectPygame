@@ -1,5 +1,5 @@
 import pygame #imports all pygame modules
-import sys #imports modules such as quit
+import sys #imports modules such as quit this give the user more control.
 
 
 pygame.init() #initializes pygame
